@@ -8,6 +8,8 @@ A website to find wifipoints on map.
 
 ## Features
 * secure request with prepare statement
+* cookie usage for fast authentication
+* forms with live-checking
 * two kind of users: base and plus. As plus you can add your wifipoint
 * point divided by category: Bar, restaurant, fastFood...
 * you can comment every point
@@ -27,3 +29,10 @@ A website to find wifipoints on map.
 ## Created by
 * [Torydebra](https://github.com/torydebra)
 * [Gaudry](https://github.com/Gaudry)
+
+
+## Screenshots
+![](https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/registrazione.png?raw=true)
+![](https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/aggiunta.png?raw=true)
+![](https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/chat.png?raw=true)
+![](https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/punto.png?raw=true)
