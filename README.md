@@ -1,11 +1,14 @@
 # WifiPoints-Website
-A website to find wifipoints on map. 
-* secure authentication with php and prepare statement
-* see presentation [here]()
+A website to find wifipoints on map.
+<p align="center">
+  <img src="https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/mappa.png?raw=true"/>
+</p>
+* see presentation [here](https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/SAW2017-Wifipoint.pdf)
 * parsing folder is for load wifipoint from json files given by Comune di Genova
 * Hosted [here]() - but soon will be deleted over there (both server and database will not be avaialbe to us forever)
 
 ## Features
+* secure request with prepare statement
 * two kind of users: base and plus. As plus you can add your wifipoint
 * point divided by category: Bar, restaurant, fastFood...
 * you can comment every point
