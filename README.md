@@ -3,7 +3,6 @@ A website to find wifipoints on map.
 * see presentation [here](https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/SAW2017-Wifipoint.pdf)
 * parsing folder is for load wifipoint from json files given by Comune di Genova
 * Hosted [here]() - but soon will be deleted over there (both server and database will not be avaialbe to us forever)
-<p align="center"><img src="https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/mappa.png?raw=true"/></p>  
 
 
 ## Features
@@ -32,6 +31,7 @@ A website to find wifipoints on map.
 
 
 ## Screenshots
+![](https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/mappa.png?raw=true)
 ![](https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/registrazione.png?raw=true)
 ![](https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/aggiunta.png?raw=true)
 ![](https://github.com/torydebra/WifiPoints-Website/blob/master/sawpdf/chat.png?raw=true)
