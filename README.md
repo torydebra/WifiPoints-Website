@@ -3,7 +3,7 @@ A website to find wifipoints on map.
 * secure authentication with php and prepare statement
 * see presentation [here]()
 * parsing folder is for load wifipoint from json files given by Comune di Genova
-* Hosted [here]() - but soon will be deleted over there (both server and database will not be avaialbe to us)
+* Hosted [here]() - but soon will be deleted over there (both server and database will not be avaialbe to us forever)
 
 ## Features
 * two kind of users: base and plus. As plus you can add your wifipoint
