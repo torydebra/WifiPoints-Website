@@ -1,0 +1,23 @@
+ul {
+	 list-style: none;
+	 text-align: center;
+}
+
+.liPoints{
+	padding-bottom: 15px;
+	text-transform: capitalize;
+}
+
+h1{
+	padding-bottom: 40px;
+}
+
+.nomePunto{
+	font-family: cursive,monospace;
+	font-size: 25px;
+}
+
+.indirizzoPunto{
+	padding-left: 20px;
+
+}

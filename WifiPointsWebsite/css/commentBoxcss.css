@@ -1,0 +1,74 @@
+h3 {
+    font-family: cursive, monospace;
+    font-size: 20px;
+    text-align: center;
+	margin : 2px;
+}
+
+#commentsContainer {
+	display: block;
+	width: 100%;
+	background-color: aliceblue;
+	padding: 14px 20px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	border-style: double;
+	border-color: black;
+	margin-top: 100px;
+	max-height: 1000px;
+	overflow: auto;
+	margin-bottom: 50px;
+}
+
+/* comments area */
+
+#comments {
+	display: block;
+	padding: 0;
+	margin-top:20px;
+}
+
+#comments .cmmnt
+{
+	display: block;
+	position: relative;
+	border-top: 1px solid #ddd;
+}
+
+#comments .cmmnt .cmmnt-content {
+	padding: 0px 3px;
+	padding-bottom: 5px;
+	padding-top: 3px;
+}
+
+.comment-header {
+	font-family: fantasy;
+	font-size: 1.1em;
+	display: block;
+	margin-bottom: 8px;
+	margin-bottom: 10px;
+	color: darkgreen;
+}
+
+.pubdate {
+	font-family: sans-serif;
+	font-size: 0.8em;
+	color:black;
+}
+
+.form-group {
+	margin :10px;
+}
+textarea {
+    resize: none;
+}
+
+.buttonContainer {
+	text-align: center;
+}
+
+#commentButton {
+	padding-left: 30px;
+	padding-right: 30px;
+}

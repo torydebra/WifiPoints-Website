@@ -1,0 +1,33 @@
+h1, h2 {
+	text-transform: capitalize;
+}
+
+
+.sectionContainer {
+	text-align : center;
+	margin-bottom: 60px;
+}
+
+.labelAttivita {
+	margin-bottom: 40px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.modifyContainer {
+	text-align : center;
+	margin-bottom:0px;
+}
+#address {
+	margin-bottom: 5px;
+}
+
+#city {
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+#mapid {
+	height: 300px;
+}
+

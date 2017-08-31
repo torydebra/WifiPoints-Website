@@ -1,0 +1,8 @@
+#mapid {
+	height: 495px;
+}
+
+/* cosi che menu a tendina della registrazione vada sopra il bottone dei layer*/
+.leaflet-right {
+	z-index: 500;
+}

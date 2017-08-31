@@ -1,0 +1,65 @@
+html {
+	height: 100% ;
+}
+
+
+body {
+	background-origin: border-box;
+	background-color: whitesmoke;
+	margin: 0;
+	height: 100%;
+}
+
+.bigContainer {
+	background-color: #CBD2D5;
+	padding-top: 70px;
+	padding-bottom: 20px;
+	border: 1px solid black;
+}
+
+@media (max-width:995px) {
+	.bigContainer{
+		padding: 0px;
+	}
+
+	.navbar {
+		margin-bottom: 5px;
+	}
+
+	.navbar-fixed-top {
+		/*		non più fixed in alto*/
+		position: inherit;
+	}
+}
+
+h1 {
+	font-family: cursive, monospace;
+	font-size: 60px;
+	text-align: center;
+}
+
+h2 {
+	font-family: cursive, monospace;
+	font-size: 30px;
+	text-align: center;
+}
+
+h4 {
+	font-family: cursive, monospace;
+	font-size: 15px;
+	text-align: center;
+}
+
+h5 {
+	font-family: cursive, monospace;
+	text-align: center;
+}
+
+.dropdown-menu>li>a:hover {
+	color: red;
+	background-color: yellow;
+}
+
+.dropdown-menu>li>a {
+	color: blue;
+}

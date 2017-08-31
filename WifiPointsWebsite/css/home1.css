@@ -1,0 +1,31 @@
+.homePhoto {
+	border: 2px solid black;
+	width: 1000px;
+	height: 500px;
+	padding-left: 0px;
+}
+.mainDiv{
+	width: 880px;
+	position: relative;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.userbase{
+	width: 300px;
+	height: 150px;
+	position: relative;
+	right: 175px;
+	top: 100px;
+}
+.userplus{
+	width: 300px;
+	height: 150px;
+	position: relative;
+	left: 175px;
+	bottom: 50px;
+}
+.bottomCopyright {
+	text-align : center;
+	font-size: 20px;
+}

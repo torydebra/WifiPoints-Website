@@ -1,0 +1,50 @@
+.formContainer {
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+}
+
+.sectionContainer {
+	margin-top:70px;
+	margin-bottom: 15px;
+}
+
+/*sovrascrive una cosa di bootstrap che dava problemi*/
+.input-group[class*=col-] {
+	float:left;
+}
+.row {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.noPadding {
+	margin: 0px;
+	padding: 0px;
+}
+.blankDiv {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.labelSection{
+	font-weight: bold;
+	font-family: monospace;
+	margin-bottom: 10px;
+}
+
+
+/* pseudoclasse invalid funziona perchè con required e con il primo option con value = "" l'input
+   select è  considerato invalido. una volta selezionato qualcosa dal menù a tendina select non è più invalid */
+ select:invalid {
+	 color: gray;
+}
+
+/* altrimenti finchè è disabled le opzioni del menu a tendina le vedo grigie*/
+option {
+  color: black;
+}
+
+textarea {
+    resize: none;
+}
