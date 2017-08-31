@@ -8,6 +8,7 @@ A website to find wifipoints on map.
 ## Features
 * secure request with prepare statement
 * cookie usage for fast authentication
+* responsive design for small screen (but not all the pages)
 * forms with live-checking
 * two kind of users: base and plus. As plus you can add your wifipoint
 * point divided by category: Bar, restaurant, fastFood...
